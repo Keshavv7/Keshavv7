@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**Keshavv7/Keshavv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Keshav! 👋✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Software Engineer | Machine Learning Enthusiast | Backend Developer | Occasionally Funny** 😆
+
+![Anime](https://img.shields.io/badge/Anime-Fan-%23FF69B4?style=flat&logo=Crunchyroll&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-%2312100E.svg?style=flat&logo=python&logoColor=white)
+![DL](https://img.shields.io/badge/Deep_Learning-%2312100E.svg?style=flat&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-%2312100E.svg?style=flat&logo=opencv&logoColor=white)
+![Backend Dev](https://img.shields.io/badge/Backend_Dev-%2312100E.svg?style=flat&logo=fastapi&logoColor=white)
+
+--- 
+
+## 🔧 Tech Toolbox
+
+- **Languages**: Python 🐍, C/C++ 💻, JavaScript ⚙️, SQL 🗄️
+- **Frameworks & Tools**:
+  - 💻 Backend: FastAPI, Flask, Django
+  - 🧠 ML/DL: PyTorch, TensorFlow, Keras
+  - 👁️ Computer Vision: OpenCV, YOLO, Point Clouds
+  - 📦 Docker | 📂 Git | 🛠️ Linux
+
+---
+
+## 💼 Currently Working On
+
+- **Adversarial Attacks on 3D Object Detection Models**: Exploring vulnerabilities in autonomous vehicle models 🛣️
+- **FPGA Board Design Project**: Building mini-computers and creating a pipelined ARM processor ⚙️
+- **Backend Projects**: Modular APIs, Payment Gateways, FastAPI integrations 💳
+
+---
+
+## 🌱 Learning & Exploring
+
+- **Physical Unclonable Functions (PUFs)** for cybersecurity 🔒
+- 📖 **Indian Cinema History**: Because techies need breaks, too 🍿
+- Deepening skills in **CUDA & Docker** for ML model deployment 🚀
+
+---
+
+## ⚡ Fun Facts About Me
+
+- I'm a dual-booter, hopping between **Fedora** and **Windows 11** 💻
+- I enjoy capturing moments with **street hawkers and animals** 📷🐾
+- Anime keeps my creativity fresh and memes keep my humor sharp 😆
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav-blue?logo=linkedin)](https://www.linkedin.com/in/keshav)  
+[![GitHub](https://img.shields.io/github/followers/Keshav?style=social)](https://github.com/Keshav)  
+
+---
+
+> _"The journey of a thousand lines of code begins with a single bug."_
+
+Happy coding! 😄
