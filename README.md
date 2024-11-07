@@ -42,15 +42,15 @@
 ## ⚡ Fun Facts About Me
 
 - I'm a dual-booter, hopping between **Fedora** and **Windows 11** 💻
-- I enjoy capturing moments with **street hawkers and animals** 📷🐾
+- I enjoy capturing moments with **streets and animals** 📷🐾
 - Anime keeps my creativity fresh and memes keep my humor sharp 😆
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav-blue?logo=linkedin)](https://www.linkedin.com/in/keshav)  
-[![GitHub](https://img.shields.io/github/followers/Keshav?style=social)](https://github.com/Keshav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav-blue?logo=linkedin)](https://www.linkedin.com/in/keshav-kumar-manjhi-a8a2a321b/)  
+[![GitHub](https://img.shields.io/github/followers/Keshav?style=social)](https://github.com/Keshavv7)  
 
 ---
 
