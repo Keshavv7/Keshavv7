@@ -50,7 +50,7 @@
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav-blue?logo=linkedin)](https://www.linkedin.com/in/keshav-kumar-manjhi-a8a2a321b/)  
-[![GitHub](https://img.shields.io/github/followers/Keshav?style=social)](https://github.com/Keshavv7)  
+[![GitHub](https://img.shields.io/github/followers/Keshavv7?style=social)](https://github.com/Keshavv7)  
 
 ---
 
