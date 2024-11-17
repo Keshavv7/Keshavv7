@@ -23,22 +23,6 @@
 
 ---
 
-## 💼 Currently Working On
-
-- **Adversarial Attacks on 3D Object Detection Models**: Exploring vulnerabilities in autonomous vehicle models 🛣️
-- **FPGA Board Design Project**: Building mini-computers and creating a pipelined ARM processor ⚙️
-- **Backend Projects**: Modular APIs, Payment Gateways, FastAPI integrations 💳
-
----
-
-## 🌱 Learning & Exploring
-
-- **Physical Unclonable Functions (PUFs)** for cybersecurity 🔒
-- 📖 **Indian Cinema History**: Because techies need breaks, too 🍿
-- Deepening skills in **CUDA & Docker** for ML model deployment 🚀
-
----
-
 ## ⚡ Fun Facts About Me
 
 - I'm a dual-booter, hopping between **Fedora** and **Windows 11** 💻
